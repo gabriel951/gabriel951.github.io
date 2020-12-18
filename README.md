@@ -2,6 +2,8 @@
 This repository is an attempt to make my work available, both the texts I have
 written and the slides I have used for presentations. 
 
+![Me](me.jpg)
+
 # Contact
 In case you have any doubts/suggestions/comments feel free to contact me via email:
 gabrielfsilva1995@gmail.com.
