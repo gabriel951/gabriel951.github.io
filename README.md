@@ -1,6 +1,8 @@
 # Goal
 Hi, welcome to my website! Here you will find both the texts I have written and the slides I have used for presentations.  
 
+PS: I stand with Ukraine!
+
 # Overview
 Here is an overview of the contents of each folder: 
 
