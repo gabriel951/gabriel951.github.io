@@ -3,13 +3,17 @@ Hi, welcome to my website! Here you will find both the texts I have written and 
 
 PS: I stand with Ukraine!
 
+# Current Work
+I am currently working on adapting our formalisation of AC-unification to put in [Nasalib](https://github.com/nasa/pvslib/) and
+after that I will work on extending our formalisation of AC-unification to the nominal setting.  
+
 # Overview
 Here is an overview of the contents of each folder: 
 
-## [Current Work](https://github.com/gabriel951/my_work/tree/master/current_work)
-We are currently working on formalising first-order AC-unification. We finished proving termination, soundness and completeness and submitted this work to FSCD 2022. Here you can find this paper and related slides.  
-
 ## [Publications](https://github.com/gabriel951/my_work/tree/master/publications)
+
+FSCD 2022 - "A Certified Algorithm for AC-Unification"  
+
 MSCS 2021 - "Formalising Nominal C-unification Generalised With Protected Variables"
 
 NatFoM 2020 - "Why We Need Structured Proofs in Mathematics"
