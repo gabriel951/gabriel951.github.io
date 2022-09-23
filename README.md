@@ -30,7 +30,9 @@ Master Degree (2017-2019) - My master thesis and slides
 
 Undergrad (2013-2017) - My undergrad thesis and slides <br>
 
-## [Summer Workshop UnB](https://github.com/gabriel951/my_work/tree/master/summer_workshop_math_unb)
+## [Workshops and Doctoral Programme](https://github.com/gabriel951/my_work/tree/master/workshop_and_doctoral_programme)
+Doctoral Programme of the Conference of Intelligent Computer Mathematics (CICM) 2022 - "Formalising Nominal AC-Unification"
+
 Summer Workshop in Mathematics UnB 2022 - "Formalising AC-Unification"  
 
 Summer Workshop in Mathematics UnB 2021 - "Formalising Completeness of AC-unification"
