@@ -1,5 +1,5 @@
 # Goal
-Hi, welcome to my website! Here you will find both the texts I have written and the slides I have used for presentations.  
+Hi, welcome to my website! My name is Gabriel Ferreira Silva and here you will find both the texts I have written and the slides I have used for presentations.  
 
 PS: I stand with Ukraine!
 
